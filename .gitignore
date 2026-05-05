@@ -1,0 +1,14 @@
+# Environnement Python
+__pycache__/
+*.pyc
+.env
+venv/
+.venv/
+
+# Fichiers trop lourds (si > 100MB)
+# outputs/*.pkl
+# outputs/*.parquet
+
+# Système
+.DS_Store
+Thumbs.db

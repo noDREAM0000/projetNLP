@@ -1,0 +1,9 @@
+streamlit
+joblib
+numpy
+pandas
+matplotlib
+Pillow
+sentence-transformers
+scikit-learn
+pyarrow

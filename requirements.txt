@@ -4,8 +4,9 @@ numpy
 pandas
 matplotlib
 Pillow
-sentence-transformers==2.2.2
 scikit-learn
 pyarrow
-transformers==4.30.0
-torch
+tokenizers==0.13.3
+transformers==4.30.2
+sentence-transformers==2.2.2
+torch==2.0.1+cpu --find-links https://download.pytorch.org/whl/torch_stable.html

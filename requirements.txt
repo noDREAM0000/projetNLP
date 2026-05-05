@@ -4,6 +4,8 @@ numpy
 pandas
 matplotlib
 Pillow
-sentence-transformers
+sentence-transformers==2.2.2
 scikit-learn
 pyarrow
+transformers==4.30.0
+torch

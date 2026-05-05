@@ -6,7 +6,8 @@ matplotlib
 Pillow
 scikit-learn
 pyarrow
-tokenizers==0.13.3
-transformers==4.30.2
-sentence-transformers==2.2.2
-torch==2.0.1+cpu --find-links https://download.pytorch.org/whl/torch_stable.html
+torch==2.9.0
+torchvision
+tokenizers
+transformers
+sentence-transformers

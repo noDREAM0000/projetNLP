@@ -7,6 +7,7 @@ import matplotlib.pyplot as plt
 from PIL import Image
 from sentence_transformers import SentenceTransformer
 
+## OUTPUT_DIR = r"E:\INSI\NLP\projet_exam\outputs"
 OUTPUT_DIR = os.path.join(os.path.dirname(__file__), "outputs")
 
 st.set_page_config(

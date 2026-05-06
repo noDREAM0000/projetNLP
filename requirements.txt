@@ -9,6 +9,6 @@ pyarrow
 torch==2.9.0
 torchvision
 huggingface_hub==0.23.4
-tokenizers==0.19.1
+tokenizers
 transformers==4.41.2
 sentence-transformers==3.0.1
